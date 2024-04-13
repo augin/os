@@ -13,7 +13,7 @@ TIMEZONE ?= Europe/Moscow
 REPO_URL ?= http://de3.mirror.archlinuxarm.org
 BUILD_OPTS ?=
 BUILDER_URL ?= https://github.com/mdevaev/pi-builder
-PIKVM_REPO_URL ?= https://pikvm.org/repos
+PIKVM_REPO_URL ?= https://files.pikvm.org/repos/arch
 PIKVM_REPO_KEY ?= 912C773ABBD1B584
 
 WIFI_ESSID ?=
