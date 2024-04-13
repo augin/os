@@ -12,6 +12,6 @@ jobs:
       - name: os
         run: make os
         
-      #- name: image
-      #  run: make image
+      - name: image
+        run: make image
     
