@@ -15,7 +15,6 @@ BUILD_OPTS ?=
 BUILDER_URL ?= https://github.com/pikvm/pi-builder
 PIKVM_REPO_URL ?= https://files.pikvm.org/repos/arch
 PIKVM_REPO_KEY ?= 912C773ABBD1B584
-
 WIFI_ESSID ?=
 WIFI_PASSWD ?=
 WIFI_IFACE ?= wlan0
